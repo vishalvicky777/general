@@ -1,0 +1,1 @@
+This hold scripts for practics programs done on LeetCode/HackerRank
